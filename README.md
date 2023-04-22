@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Mohamed Aymene. Welcome to my GitHub profile! I'm a full-stack developer with academic experience building web applications, mobile apps, and desktop software. I enjoy learning new technologies and solving complex problems. Feel free to check out my projects and reach out if you want to collaborate.<br>
+Hello, I'm Mohamed Aymene. Welcome to my GitHub profile! I'm a full-stack developer with academic experience building web applications, and desktop software. I enjoy learning new technologies and solving complex problems. Feel free to check out my projects and reach out if you want to collaborate.<br>
 
 
 ## 🌐 Socials:
